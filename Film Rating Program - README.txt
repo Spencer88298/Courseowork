@@ -1,0 +1,1 @@
+To use the Haskell Program, when loading the haskell program make sure that the films.txt file is within the same folder as the program will need to use this. 
